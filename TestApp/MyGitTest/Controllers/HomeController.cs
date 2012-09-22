@@ -10,7 +10,7 @@ namespace MyGitTest.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Welcome to ASP.NET MVC! Edited from http";
+            ViewBag.Message = "Welcome to ASP.NET MVC! Edited from VS";
 
             return View();
         }
